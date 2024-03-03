@@ -7,8 +7,11 @@ Este artigo ele fala sobre a automatização de atividades de revisão de códig
  
 ## 2. Fichamento Bibliográfico
 
-- **Code Review** (Revisão de Código): Um outro programador vai revisar o codigo que foi feito ,verificando se qualidade e outros fatores atendem ao padrão esperado.  
-- **Deep Learning** (Modelos de Aprendizado Profundo): Pode ser descrito como uma ferramenta de inteligencia artificial que a partir de uma grande quantidade de dados e após inúmeras camadas de processamento com algoritmos , consegue realizar as tarefas sozinha.
+- *Code Review* (Revisão de Código): Um outro programador vai revisar o codigo que foi feito ,verificando se qualidade e outros fatores atendem ao padrão esperado.  
+
+- *Deep Learning* (Modelos de Aprendizado Profundo): Pode ser descrito como uma ferramenta de inteligencia artificial que a partir de uma grande quantidade de dados e após inúmeras camadas de processamento com algoritmos , consegue realizar as tarefas sozinha.
+
+- Automação de Revisão de Código: Utilização de modelos de Aprendizado Profundo para antecipar e implementar mudanças sugeridas durante a revisão de código.
 
 ## 3. Fichamento de Citações
 
