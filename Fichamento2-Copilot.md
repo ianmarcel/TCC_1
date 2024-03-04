@@ -4,11 +4,10 @@ Nguyen, Nhan; Nadi, Sarah. "Avaliação Empírica das Sugestões de Código do G
 
 ## 1. Fichamento de Conteúdo
 
-O artigo faz uma avaliação empírica da correção e a compreensibilidade das sugestões de código do GitHub Copilot, para isso eles utilizaram 33 questões do LeetCode, em 4 linguagens de programação, os autores validam as 132 soluções sugeridas pelo Copilot e avaliam sua compreensibilidade com base na complexidade ciclomática e cognitiva, eles avaliaram o quão correta era as sugestões do Copilot e também a sua compreensão. Os resultados mostraram que as sugestões em *Java* apresentam a maior taxa de corretude com cinquenta e sete porcento, enquanto as sugestões em *JavaScript* têm a menor, apenas vinte e sete porcento. Além disso, as sugestões geradas pelo Copilot do GitHub, de maneira geral, acabaram por demonstrar uma baixa complexidade, indicando uma boa compreensibilidade, sem diferenças significativas entre as linguagens.   
+O artigo faz uma avaliação empírica da correção e a compreensibilidade das sugestões de código do GitHub Copilot, que é uma ferramenta de inteligência artificial desenvolvida pelo proprio GitHub em conjunto com a OpenAI uma empresa do ramo de inteligência artificial ,para isso eles utilizaram trinta e três questões do LeetCode, em quatro linguagens de programação, os autores validam as cento e trinta e duas soluções sugeridas pelo Copilot e avaliam sua compreensibilidade com base na complexidade ciclomática e cognitiva, eles avaliaram o quão correta era as sugestões do Copilot e também a sua compreensão. Os resultados mostraram que as sugestões em *Java* apresentam a maior taxa de corretude com cinquenta e sete porcento, enquanto as sugestões em *JavaScript* têm a menor, apenas vinte e sete porcento. Além disso, as sugestões geradas pelo Copilot do GitHub, de maneira geral, acabaram por demonstrar uma baixa complexidade, indicando uma boa compreensibilidade, sem diferenças significativas entre as linguagens.   
 
 
 ## 2. Fichamento Bibliográfico.
-
 
 - **Pair Progamming(Progamacao em par)**: É uma tecnica de progamação onde tem dois progamadores trabalhando junto em um mesmo computador.Um deles escreve o código e o outro observa ,revisa cada linha de código,para sugerir melhorias se necessário(página 1). 
 
