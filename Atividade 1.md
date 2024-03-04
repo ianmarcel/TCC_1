@@ -1,7 +1,7 @@
 ## Memorial Descritivo da Graduação em Engenharia de Software na PUC Minas (2020 - 2024)
 
 
-## Ian Marcel de Campos Ferreira
+Ian Marcel de Campos Ferreira
 
 11 de fevereiro de 2024, Ian Marcel terminou o ensino médio em 2014. Ele ingressou no curso de Engenharia Civil em 2016, tendo como alternativa o curso de Engenharia de Gás e Petróleo. A escolha pela área de engenharia deve-se ao fato de ter maior aptidão para ciências exatas na escola. Após 3 anos na área de Engenharia Civil, ele optou por fazer uma mudança para a graduação em Engenharia de Software. Contribui-se para a troca, a matéria de algoritmos para engenharia ainda no bacharelado anterior, causando um interesse na área de programação de computadores.
 
