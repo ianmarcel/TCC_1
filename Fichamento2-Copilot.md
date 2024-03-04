@@ -4,19 +4,20 @@ Nguyen, Nhan; Nadi, Sarah. "Avaliação Empírica das Sugestões de Código do G
 
 ## 1. Fichamento de Conteúdo
 
-O artigo faz uma avaliação empírica da correção e a compreensibilidade das sugestões de codigo do Github Copilot , para isso eles utilizaram 33 questões do LeetCode, em 4 linguagens de programação , os autores testam a corretude das 132 soluções sugeridas pelo Copilot e avaliam sua compreensibilidade com base na complexidade ciclomática e cognitiva, eles avaliaram o quão correta era as sugestões do Copilot e também a sua compreensão. Os resultados eles mostraram que  que as sugestões em *Java* apresentam a maior taxa de corretude com cinquenta e sete porcento, enquanto as sugestões em *JavaScript* têm a menor , apenas vinte e sete porcento. Além disso, as sugestões que foram geradas pelo Copilot do Github, de maneira geral, acabaram por demonstrar uma baixa complexidade, indicando uma boa compreensibilidade, sem diferenças significativas entre as linguagens. 
-
-## 2. Fichamento Bibliográfico
+O artigo faz uma avaliação empírica da correção e a compreensibilidade das sugestões de código do GitHub Copilot, para isso eles utilizaram 33 questões do LeetCode, em 4 linguagens de programação, os autores validam as 132 soluções sugeridas pelo Copilot e avaliam sua compreensibilidade com base na complexidade ciclomática e cognitiva, eles avaliaram o quão correta era as sugestões do Copilot e também a sua compreensão. Os resultados mostraram que as sugestões em *Java* apresentam a maior taxa de corretude com cinquenta e sete porcento, enquanto as sugestões em *JavaScript* têm a menor, apenas vinte e sete porcento. Além disso, as sugestões geradas pelo Copilot do GitHub, de maneira geral, acabaram por demonstrar uma baixa complexidade, indicando uma boa compreensibilidade, sem diferenças significativas entre as linguagens.   
 
 
-- *Pair Progamming*(Progamacao em par): É uma tecnica de progamação onde tem dois progamadores trabalhando junto em um mesmo computador.Um deles escreve o código e o outro observa ,revisa cada linha de código,para sugerir melhorias se necessário. 
-
-- **Compreensibilidade**: Indica o quão compreensivel o código é ,envolvendo varios fatores como clareza do código, o uso de nomes significativos para variáveis e funções, a organização do código em pequenas funções ou módulos com propósitos claros.
-
-- **Complexidade Ciclomática**: De forma simples , é uma metrica que é usada na programação para avaliar a complexidade do código,caso o seu codigo,sua função passe por muitos caminhos pode-se avaliar isso ,pois em tese quanto mais caminhos houver no seu codigo mais complexo ele é.
+## 2. Fichamento Bibliográfico.
 
 
-## 3. Fichamento de Citações
+- **Pair Progamming(Progamacao em par)**: É uma tecnica de progamação onde tem dois progamadores trabalhando junto em um mesmo computador.Um deles escreve o código e o outro observa ,revisa cada linha de código,para sugerir melhorias se necessário(página 1). 
+
+- **Compreensibilidade**:  Indica o quão compreensível o código é, envolvendo vários fatores como clareza do código, o uso de nomes significativos para variáveis e funções, a organização do código em pequenas funções ou módulos com propósitos claros (página 1).
+
+- ** Complexidade Ciclomática: De forma simples, é uma métrica usada na programação para avaliar a complexidade do código, por exemplo, sua função passe por muitos caminhos, pode-se avaliar isso, pois em tese, quanto mais caminhos houver no seu código, mais complexo ele é (página 2).
+
+
+## 3. Fichamento de Citações.
 
 - _"Nós realizamos um estudo empírico para avaliar a corretude e a compreensibilidade das sugestões de código do Copilot, utilizando 33 questões do LeetCode para criar consultas em quatro linguagens de programação diferentes."_
 - _"Descobrimos que as sugestões do Copilot para Java têm a maior taxa de corretude (57%), enquanto JavaScript tem a menor (27%)."_
